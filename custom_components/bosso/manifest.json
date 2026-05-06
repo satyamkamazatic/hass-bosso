@@ -1,0 +1,12 @@
+{
+  "domain": "bosso",
+  "name": "Bosso Lights",
+  "version": "1.1.0",
+  "documentation": "https://example.com/your-username/hass-bosso",
+  "issue_tracker": "https://example.com/your-username/hass-bosso/issues",
+  "codeowners": ["@your-username"],
+  "config_flow": true,
+  "dependencies": [],
+  "iot_class": "cloud_polling",
+  "requirements": []
+}
